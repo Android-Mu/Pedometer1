@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\female1.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\female1.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_set.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_set.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_pedometer.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_pedometer.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\male.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\male.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_pk_selected.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_pk_selected.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_history.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_history.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button2.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\button2.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\friends.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\friends.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\friend.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\friend.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back_pressed.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\back_pressed.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_history_selected.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_history_selected.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_set_selected.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_set_selected.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button1.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\button1.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tababoutus.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\tababoutus.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_pedometer_selected.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_pedometer_selected.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tabconfigicon.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\tabconfigicon.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tabsearch.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\tabsearch.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tablatestalert.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\tablatestalert.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\male1.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\male1.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\female.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\female.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_analysis.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_analysis.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_pk.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_pk.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_analysis_selected.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\main_analysis_selected.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\female_set.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\female_set.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\male_set.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\male_set.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tabrecommd.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-mdpi\\tabrecommd.png"
+    }
+]

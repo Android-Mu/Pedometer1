@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_mian.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\page_mian.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\set.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pk_1.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\pk_1.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\membet_set.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\membet_set.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userinfo.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\userinfo.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\history.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pedometer.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\pedometer.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_platform_list.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_actionbar.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_actionbar.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_headpic.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\activity_set_headpic.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_list.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\group_list.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\member_list.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\member_list.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pk_2.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\pk_2.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage_at_layout.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_member_list.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\group_member_list.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_editpage_inc_image_layout.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_title.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\common_title.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\member_add_list.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\member_add_list.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicsshow.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\musicsshow.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\member_add.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\member_add.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pk.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\pk.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\analyze.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\analyze.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ssdk_oks_skyblue_share_platform_list_item.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\layout\\ssdk_oks_skyblue_share_platform_list_item.xml"
+    }
+]

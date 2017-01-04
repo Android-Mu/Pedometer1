@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\mframework.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27bf0e3cf6b776a45f0bdc24cc8387cef322c4">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\mframework_8f49a66311b996e800402644f790e590a799918b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\ShareSDK-SinaWeibo-2.6.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81fc0a9026d474b326f5e162dca4abba0f4d565">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-SinaWeibo-2.6.6_b81ebbcea5a7a029b50e66fa2ff1fe12600eb3fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\ShareSDK-Core-2.6.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c700cf214153aab4859ecf64d68c37cd154f3b51">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Core-2.6.6_21ff1d8b03977974630f4fcbf8a400b94b102371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\ShareSDK-QQ-2.6.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e781becfda72af21895ba7278cb7c772c802944">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QQ-2.6.6_954778e043fa3f391ebcb4eabb7ce4998d571de2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90987aba99db897843a9fa23beaa7284ed37afd">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_820a06282f94fe05dc5973358413c44934da0dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa0fa035d8bbcd2dcaac0ede0e76484716284bf0">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_db482c1a862a09d763971c9a56a9eee81d077026\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\BmobSDK_V3.2.7_1209.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04f4ef2855771de1d53a1c25e9fd25d686c63c79">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSDK_V3.2.7_1209_44be208e0b9cc51f101a404fe809b0437eefe2f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_6c82a7f22aa7ece67131d147f55f2ab4873da576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8d2501ce47c22f5b532b3d900569e35953869ba">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_6036f8a60d141b6bf2577d13394bdeae6a49f6c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\ShareSDK-QZone-2.6.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6fb5e99e213a9c009aabb65b1798e749d97e4b9">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-QZone-2.6.6_6e4864ac4070cca0745fbaee7fbc05294942bb82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\MobTools.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e0fca46943d5a909762839c6a8666fa97942ff45">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools_a18505a3b0708e696cfe575ea3288128c730a413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\ShareSDK-Wechat-Core-2.6.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e3d86abbb18837e8931a765dd47ba9cab9ebca0">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Core-2.6.6_b1576c8f2fee290b988d631d48d2691f72474ec8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\MobCommons.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85c6a22a097db5e86cb0702dff09a62218faa25b">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons_fee12abdc63549a103a5d5ee1837b598f88dc300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\BmobPush_V0.5beta_1027.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0a589bc7808d2a0c8b33edfc66a737ec3f57494">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobPush_V0.5beta_1027_f39f19f938a8939f92e5d77de1e8a06e0f1ed65b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\ShareSDK-Wechat-2.6.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99655f6fe955a9d68bf6812a78427d94fc0ed798">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-2.6.6_acad0b1144ba170df679414a495fd88a1a90918b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\ShareSDK-TencentWeibo-2.6.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b10872dba6fc11d5c43a425e2ce75731cd70fbc2">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-TencentWeibo-2.6.6_e9898aeec75ab662c8652cd6d0c317962eedcf12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SourceDownload\Pedometer1\app\libs\ShareSDK-Wechat-Moments-2.6.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0a2714a5465f6fc7fa1537c005233c543a5d263">
+        <dex dex="E:\SourceDownload\Pedometer1\app\build\intermediates\transforms\dex\debug\folders\1000\2\ShareSDK-Wechat-Moments-2.6.6_097d434726f4f80bf9f83180de528b821f1498b3\classes.dex" />
+    </item>
+
+</items>

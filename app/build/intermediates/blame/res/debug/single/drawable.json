@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_corners_bg.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_skyblue_platform_list_item.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable\\ssdk_oks_skyblue_platform_list_item.xml"
+    }
+]

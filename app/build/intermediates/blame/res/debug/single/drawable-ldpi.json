@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\star.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\star.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\before.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\before.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\title_history.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\title_history.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stop.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\stop.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\title_pedometer.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\title_pedometer.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\title_history_pressed.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\title_history_pressed.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\pause.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\pause.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\title_pedometer_pressed.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\title_pedometer_pressed.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ico_mine_modify.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\ico_mine_modify.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\background.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\next.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-ldpi\\next.png"
+    }
+]

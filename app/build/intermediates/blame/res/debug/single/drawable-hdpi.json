@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\music_bg.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\music_bg.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bg_green2_normal.9.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\button_bg_green2_normal.9.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ssdk_oks_ptr_ptr.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_bg_green2_pressed.9.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\button_bg_green2_pressed.9.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button.9.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\button.9.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tianqi_bg.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\tianqi_bg.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_item_bg.9.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\app_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\welcome.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\welcome.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_pressed.9.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\column.9.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\column.9.png"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pull_to_refresh_arrow.png",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\pull_to_refresh_arrow.png"
+    }
+]

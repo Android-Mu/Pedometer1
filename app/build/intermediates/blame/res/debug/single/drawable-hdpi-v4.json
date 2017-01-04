@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_tab.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_tab.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_male.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_male.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_pk.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_pk.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\barcolor.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\barcolor.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_color_set.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_color_set.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_pedometer.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_pedometer.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_button.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_button.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_female.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_female.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_color.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_color.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_history.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_history.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_calendar.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_calendar.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dlbtn_selector.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\dlbtn_selector.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_friend.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_friend.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_image.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_image.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_analysis.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_analysis.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.jpg",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\icon.jpg"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mubiao_step.jpg",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\mubiao_step.jpg"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_set.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_set.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selector_back.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-hdpi\\selector_back.xml"
+    }
+]

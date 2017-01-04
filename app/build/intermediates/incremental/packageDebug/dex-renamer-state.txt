@@ -1,0 +1,7 @@
+#Wed Jan 04 18:12:19 CST 2017
+base.0=E\:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_820a06282f94fe05dc5973358413c44934da0dd3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_db482c1a862a09d763971c9a56a9eee81d077026\\classes.dex
+base.1=E\:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_db482c1a862a09d763971c9a56a9eee81d077026
+file.0=E\:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_820a06282f94fe05dc5973358413c44934da0dd3\\classes.dex

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ssdk_oks_shake_to_share_back.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_left_btn_background.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-xhdpi\\dialog_left_btn_background.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.jpg",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-xhdpi\\icon.jpg"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_title_text_background.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-xhdpi\\common_title_text_background.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_backgroud.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-xhdpi\\dialog_backgroud.xml"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_picture.jpg",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-xhdpi\\default_picture.jpg"
+    },
+    {
+        "merged": "E:\\SourceDownload\\Pedometer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_right_btn_background.xml",
+        "source": "E:\\SourceDownload\\Pedometer1\\app\\src\\main\\res\\drawable-xhdpi\\dialog_right_btn_background.xml"
+    }
+]
